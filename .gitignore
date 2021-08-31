@@ -1,3 +1,5 @@
 # Project stuff
 Auth_Tokens.txt
 
+# Reac Webapp
+/webapp/node_modules
