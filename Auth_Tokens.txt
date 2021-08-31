@@ -1,0 +1,9 @@
+TODO - convert this to json
+
+Client ID: 69903
+Client Secret: 84def7ca74a1e39fc6c1fae5be0a96a69ca0bcdc
+Access Token: 5331c60d39fc97fc51d47900cdeba1bf8ec2695d
+Refresh Token: e32e4b397a53d9e2f0ef4f221d664efb0530b48e
+Authorization Code: 495c96640a18944c87bff81cba6849018c369720
+
+http://www.strava.com/oauth/authorize?client_id=69903&response_type=code&redirect_uri=http://localhost/exchange_token&approval_prompt=force&scope=read
